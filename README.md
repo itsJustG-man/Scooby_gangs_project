@@ -2,4 +2,7 @@ UTSA Fall 2025 Database Systems Project
 
 Group Members:
 
-Justine Bostrillo,
+Ana Juliette Suarez Munoz,
+Garrett Alan Wilson,
+Justine A Bostrillo,
+Logan B Lewis
